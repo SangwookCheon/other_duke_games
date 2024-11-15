@@ -1,0 +1,47 @@
+o, enemy2.png, 0.6, 600, -5, 1
+o, enemy2.png, 0.6, 500, -5, 1
+o, enemy2.png, 0.6, 200, -5, 1
+o, enemy2.png, 0.6, 100, -5, 1
+o, enemy2.png, 0.6, 0, -5, 1
+i, item.png, 0.05, 300, -5, 1
+
+o, enemy2.png, 0.6, 500, -5, 4
+o, enemy2.png, 0.6, 400, -5, 4
+o, enemy2.png, 0.6, 300, -5, 4
+o, enemy2.png, 0.6, 200, -5, 4
+o, enemy2.png, 0.6, 100, -5, 4
+o, enemy2.png, 0.6, 0, -5, 4
+i, item.png, 0.05, 650, -5, 4
+
+o, enemy2.png, 0.6, 600, -5, 7
+o, enemy2.png, 0.6, 500, -5, 7
+o, enemy2.png, 0.6, 400, -5, 7
+o, enemy2.png, 0.6, 300, -5, 7
+o, enemy2.png, 0.6, 200, -5, 7
+i, item.png, 0.05, 75, -5, 7
+
+o, enemy2.png, 0.6, 600, -5, 10
+o, enemy2.png, 0.6, 500, -5, 10
+o, enemy2.png, 0.6, 200, -5, 10
+o, enemy2.png, 0.6, 100, -5, 10
+o, enemy2.png, 0.6, 0, -5, 10
+o, enemy3.png, 0.4, 350, -9, 12
+o, enemy3.png, 0.4, 150, -9, 12
+i, item.png, 0.05, 300, -5, 10
+
+o, enemy2.png, 0.6, 500, -5, 13
+o, enemy2.png, 0.6, 400, -5, 13
+o, enemy2.png, 0.6, 300, -5, 13
+o, enemy2.png, 0.6, 200, -5, 13
+o, enemy2.png, 0.6, 100, -5, 13
+o, enemy2.png, 0.6, 0, -5, 13
+o, enemy3.png, 0.4, 650, -9, 15
+o, enemy3.png, 0.4, 450, -9, 15
+i, item.png, 0.05, 650, -5, 13
+
+o, enemy2.png, 0.6, 600, -5, 16
+o, enemy2.png, 0.6, 500, -5, 16
+o, enemy2.png, 0.6, 400, -5, 16
+o, enemy2.png, 0.6, 300, -5, 16
+o, enemy2.png, 0.6, 200, -5, 16
+i, item.png, 0.05, 75, -5, 16
